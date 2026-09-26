@@ -1,0 +1,17 @@
+# Node
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Go
+backend/bin/
+
+# Env / segredos
+.env
+*.env
+!*.env.example
+
+# Editor / SO
+.DS_Store
+.idea/
+.vscode/
